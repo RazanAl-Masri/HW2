@@ -18,6 +18,7 @@ h1, h2, h3 {
 
 #left-side {
     text-align: left;
+    font-weight: bold;
     
 }
 #header-text {
@@ -25,29 +26,28 @@ h1, h2, h3 {
     line-height: 100px;
     background-color: rgb(21, 10, 61);
     height: 300px;
-    font-size: 40px;
+    font-size: 40px;  
 }
+
 #contact-information {
     text-align: right;
-
+    font-weight: bold;
 }
 
-.side-by-side li {
-    display: inline-block;
-    margin-right: 10px; /
-}
+
 #header-button{
     color: #FFFFFF;
     background-color: rgb(70, 33, 206);
     font-weight: bold;
-    font-size: larger;
-   
-    
+    font-size: larger; 
 }
 
 #text-menu {
     background-color: #FFFFFF;
     color: #030303;
+    margin: 40px;
+    font-size: 14px;
+    display: inline-block;
 }
 
 #team-list {
