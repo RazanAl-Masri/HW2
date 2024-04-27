@@ -1,0 +1,83 @@
+body {
+   font-family:'Roboto', sans-serif;
+    background-color: #FFFFFF;
+    color: #FFFFFF;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}     
+
+h1, h2, h3 {
+    font-weight: bold; 
+}
+
+#header-top {
+    background-color: #FFFFFF;
+}
+
+#left-side {
+    text-align: left;
+    
+}
+#header-text {
+    text-align: center;
+    line-height: 100px;
+    background-color: rgb(21, 10, 61);
+    height: 300px;
+    font-size: 40px;
+}
+#contact-information {
+    text-align: right;
+
+}
+
+.side-by-side li {
+    display: inline-block;
+    margin-right: 10px; /
+}
+#header-button{
+    color: #FFFFFF;
+    background-color: rgb(70, 33, 206);
+    font-weight: bold;
+    font-size: larger;
+   
+    
+}
+
+#text-menu {
+    background-color: #FFFFFF;
+    color: #030303;
+}
+
+#team-list {
+    background-color: aqua; 
+    padding: 10px; 
+}
+
+
+#team-list ul li {
+    background-color: #fff; 
+    padding: 20px;
+    width: auto; 
+    height: auto;
+}
+
+#team-list ul li img {
+    display: block; 
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px; /* Adjust margin as needed */
+}
+
+#team-list ul li h3 {
+    margin: 0; /* Remove default margin */
+    font-size: 16px; /* Adjust font size as needed */
+    font-weight: bold; /* Make text bold */
+}
+
+#team-list ul li p {
+    margin: 0; /* Remove default margin */
+    font-size: 14px; /* Adjust font size as needed */
+    color: #666; /* Adjust text color as needed */
+}
