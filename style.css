@@ -51,13 +51,14 @@ h1, h2, h3 {
 }
 
 #team-list {
-    background-color: aqua; 
+    background-color: grey; 
     color: #030303;
     padding: 10px; 
 }
 
 
 #team-list ul li {
+    text-align: center;
     background-color: #fff; 
     color: #030303;
     margin: 20px;
