@@ -52,32 +52,20 @@ h1, h2, h3 {
 
 #team-list {
     background-color: aqua; 
+    color: #030303;
     padding: 10px; 
 }
 
 
 #team-list ul li {
     background-color: #fff; 
-    padding: 20px;
-    width: auto; 
-    height: auto;
+    color: #030303;
+    margin: 20px;
+    font-size: 20px;
+    display: inline-block;
 }
 
-#team-list ul li img {
-    display: block; 
-    max-width: 100%;
-    height: auto;
-    margin-bottom: 10px; /* Adjust margin as needed */
-}
-
-#team-list ul li h3 {
-    margin: 0; /* Remove default margin */
-    font-size: 16px; /* Adjust font size as needed */
-    font-weight: bold; /* Make text bold */
-}
-
-#team-list ul li p {
-    margin: 0; /* Remove default margin */
-    font-size: 14px; /* Adjust font size as needed */
-    color: #666; /* Adjust text color as needed */
+footer {
+    color: #FFFFFF;
+    background-color: rgb(21, 10, 61);
 }
