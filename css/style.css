@@ -63,7 +63,12 @@ body{
     background-color:#404BBF;
     color: #ffffff;
 }
-
+.change-color-on-hover:hover {
+    color: #404BBF;
+}
+.change-color-on-hover:focus {
+    color: #404BBF;
+}
 .our-team{
     background-color: #F4F4FD;
 }
