@@ -31,10 +31,6 @@ body{
     color: #2E2F42;
 }
 
-.hover-focus-color:hover,
-.hover-focus-color:focus {
-    color: #404BBF;
-}
 
 .header-ul .list .etiket:hover,
 .header-ul .list .etiket:focus{
