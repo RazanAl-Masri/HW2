@@ -30,6 +30,9 @@ body{
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
+.etiket:focus {
+  color: #404BBF;
+}
 
 
 .header-ul .list .etiket:hover,
@@ -69,7 +72,7 @@ body{
 .change-color-on-hover:focus {
     color: #404BBF;
 }
-}
+
 .our-team{
     background-color: #F4F4FD;
 }
