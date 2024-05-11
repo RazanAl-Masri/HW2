@@ -34,7 +34,10 @@ body {
     color: #2E2F42;
 }
 
-.header-ul .list:first-child a:hover,
+.header-ul .list:first-child a:hover {
+    color: #404bbf;
+}
+
 .header-ul .list:first-child a:focus {
     color: #404bbf;
 }
