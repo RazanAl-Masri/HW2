@@ -61,7 +61,7 @@ body {
     color: #404BBF !important;
 }
 
-.hero .button {
+.button {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
@@ -73,10 +73,10 @@ body {
     transition: background-color 0.3s, color 0.3s;
 }
 
-.hero .button:hover,
+.button:hover,
 .hero .button:focus {
     background-color: #404BBF;
-    color: #404BBF;
+    color: #404BBF !important;
 }
 
 
