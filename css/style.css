@@ -70,6 +70,7 @@ body {
     background-color: #4D5AE5;
     color: #FFFFFF;
     cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
 }
 
 .hero .button:hover,
@@ -80,7 +81,7 @@ body {
 
 .change-color-on-hover:hover,
 .change-color-on-hover:focus {
-    color: #404BBF !important;
+    color: #404BBF !important; 
 }
 
 .our-team {
