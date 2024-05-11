@@ -76,13 +76,9 @@ body {
 .hero .button:hover,
 .hero .button:focus {
     background-color: #404BBF;
-    color: #FFFFFF;
+    color: #404BBF;
 }
 
-.change-color-on-hover:hover,
-.change-color-on-hover:focus {
-    color: #404BBF !important; 
-}
 
 .our-team {
     background-color: #F4F4FD;
