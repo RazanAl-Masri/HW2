@@ -36,14 +36,14 @@ body {
 
 .header-ul .list:first-child a:hover,
 .header-ul .list:first-child a:focus {
-    color: #404BBF;
+    color: #404BBF !important;
 }
 
 .header-ul .list .etiket:hover,
 .header-ul .list .etiket:focus,
 .address-link .list .etiket:hover,
 .address-link .list .etiket:focus {
-    color: #404BBF;
+    color: #404BBF !important;
 }
 
 .address {
@@ -58,7 +58,7 @@ body {
 
 .address-link .list a:hover,
 .address-link .list a:focus {
-    color: #404BBF;
+    color: #404BBF !important;
 }
 
 .hero .button {
@@ -80,7 +80,7 @@ body {
 
 .change-color-on-hover:hover,
 .change-color-on-hover:focus {
-    color: #404BBF;
+    color: #404BBF !important;
 }
 
 .our-team {
