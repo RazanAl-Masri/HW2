@@ -30,6 +30,14 @@ body{
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
+
+.header-ul .list:first-child a:hover {
+    color: #404bbf;
+}
+
+.header-ul .list:first-child a:focus {
+    color: #404bbf;
+}
 .etiket:focus {
   color: #404BBF;
 }
@@ -54,6 +62,24 @@ color: #404bbf;
 .address-link .list .etiket:hover,
 .address-link .list .etiket:focus{
     color: #404BBF;
+}
+
+.address-link .list a:hover {
+    color: #404bbf;
+}
+
+.address-link .list a:focus {
+    color: #404bbf;
+}
+
+.hero .button:hover {
+    background-color: #404bbf;
+    color: #fff;
+}
+
+.hero .button:focus {
+    background-color: #404bbf;
+    color: #fff;
 }
 .button{
     font-weight: 500;
