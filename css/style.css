@@ -34,6 +34,10 @@ body{
   color: #404BBF;
 }
 
+.header-ul:focus {
+color: #404bbf;
+}
+
 
 .header-ul .list .etiket:hover,
 .header-ul .list .etiket:focus{
