@@ -74,7 +74,7 @@ body {
 }
 
 .button:hover,
-.hero .button:focus {
+.button:focus {
     background-color: #404BBF;
     color: #404BBF !important;
 }
