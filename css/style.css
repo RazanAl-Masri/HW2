@@ -73,7 +73,10 @@ body {
     transition: background-color 0.3s, color 0.3s;
 }
 
-.button:hover,
+.button:hover {
+    background-color: #404BBF !important;
+}
+
 .button:focus {
     background-color: #404BBF !important;
     color: #404BBF !important;
